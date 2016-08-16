@@ -1,7 +1,7 @@
 {
     "name": "beautycoding/revision",
     "description": "Revision utils",
-    "type": "Model utils",
+    "type": "Utils",
     "license": "MIT",
     "authors": [
         {
