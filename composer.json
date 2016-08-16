@@ -1,0 +1,14 @@
+{
+    "name": "beautycoding/revision",
+    "description": "Revision utils",
+    "type": "Model utils",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AntyRace",
+            "email": "antyrace@antyrace.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
